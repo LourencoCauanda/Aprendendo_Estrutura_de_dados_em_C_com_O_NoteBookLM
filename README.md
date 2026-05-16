@@ -69,3 +69,5 @@ Durante o estudo, foram elaborados prompts estratégicos para extrair conhecimen
 
 ### prompts reutilizáveis
 "Gera um Relatório de Estudo Detalhado em português"
+
+"estruture um road map para me guiar nos estudos, nesse road map deve conter temas e sub-temas de formas a ter uma trilha bem organizada."
